@@ -1,9 +1,9 @@
 
 # Hello, Stripe!
 
-Original documenting can be [found here](https://docs.dennisokeeffe.com/manual-stripe-java-spring-stripe-configuration)
+Original documenting can be [found here](https://docs.dennisokeeffe.com/manual-stripe-spring-stripe-configuration)
 
-In this short example, we are going to "Hello, World!" a stripe charge using Java, Gradle and Spring Boot.
+In this short example, we are going to "Hello, World!" a Stripe charge using Java, Gradle and Spring Boot.
 
 ## Resources
 
